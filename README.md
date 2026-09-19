@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0049-group-anagrams) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
