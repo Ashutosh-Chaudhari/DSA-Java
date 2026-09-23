@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
