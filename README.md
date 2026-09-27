@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0704-binary-search) |
 ## Bit Manipulation
