@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
