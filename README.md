@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
