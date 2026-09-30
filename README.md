@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
