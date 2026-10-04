@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
+| [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
+| [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
