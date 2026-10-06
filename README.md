@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0018-4sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
