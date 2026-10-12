@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
