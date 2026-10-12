@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0981-time-based-key-value-store) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Chaudhari/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
