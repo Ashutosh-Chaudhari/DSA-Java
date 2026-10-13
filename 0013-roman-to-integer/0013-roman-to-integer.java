@@ -3,7 +3,7 @@ class Solution {
         int result = 0;
         for(int i=0; i<s.length(); i++){
             int current = value(s.charAt(i));
-            if(i+1<s.length() && current<value(s.charAt(i+1))){
+            if(i+1<s.length() && current< value(s.charAt(i+1))){
                 result-=current;
             }
             else{
@@ -12,8 +12,9 @@ class Solution {
         }
         return result;
     }
-    private int value(char ch){
-        switch(ch){
+
+    private int value(char c){
+        switch(c){
             case 'I' : return 1;
             case 'V' : return 5;
             case 'X' : return 10;
